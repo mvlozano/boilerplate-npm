@@ -13,6 +13,7 @@
 	},
 	"author": "Marcos Valdes",
 	"description": "Learning npm freeCodeCamp",
-	"keywords": ["freecodecamp","Learning","package.json"]
+	"keywords": ["freecodecamp","Learning","package.json"],
+	"license": "MIT"
 	
 }

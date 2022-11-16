@@ -12,6 +12,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Marcos Valdes",
-	"description": "Learning npm freeCodeCamp"
+	"description": "Learning npm freeCodeCamp",
+	"keywords": ["freeCodeCamp","Learning","package.json"]
 	
 }
